@@ -21,8 +21,9 @@
   },
   "categories": ["Extension Packs"],
   "extensionPack": [
-    "ms-python.python",
     "ms-azuretools.vscode-docker",
+    "eamodio.gitlens",
+    "alefragnani.bookmarks",
     "vscjava.vscode-java-pack"
   ]
 }
