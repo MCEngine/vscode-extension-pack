@@ -1,0 +1,28 @@
+{
+  "name": "mcengine-vscode-extension-pack",
+  "displayName": "MCEngine VSCode Extension Pack",
+  "description": "A curated collection of essential VS Code extensions for MCEngine projects.",
+  "version": "1.0.0",
+  "publisher": "mecngine",
+  "license" : {
+    "type" : "MIT",
+    "url" : "https://github.com/MCEngine/vscode-extension-pack/blob/master/LICENSE"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MCEngine/vscode-extension-pack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/npm/example/issues",
+    "email": "jetsadawijit@outlook.com"
+  },
+  "engines": {
+    "vscode": "1.97.2"
+  },
+  "categories": ["Extension Packs"],
+  "extensionPack": [
+    "ms-python.python",
+    "ms-azuretools.vscode-docker",
+    "vscjava.vscode-java-pack"
+  ]
+}
