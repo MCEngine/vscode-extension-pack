@@ -3,7 +3,6 @@
     "features": {
       "ghcr.io/devcontainers-contrib/features/jshint:2": {}
     },
-    "postCreateCommand": "cd src && npm install",
     "customizations": {
         "vscode": {
             "settings": {
