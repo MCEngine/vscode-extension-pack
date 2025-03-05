@@ -1,6 +1,6 @@
 {
   "name": "mcengine-vscode-extension-pack",
-  "displayName": "MCEngine VSCode Extension Pack",
+  "displayName": "MCEngine Project Extension Pack",
   "description": "A curated collection of essential VS Code extensions for MCEngine projects.",
   "version": "1.0.0",
   "publisher": "MCEngine",
@@ -13,7 +13,7 @@
     "url": "git+https://github.com/MCEngine/vscode-extension-pack.git"
   },
   "bugs": {
-    "url": "https://github.com/npm/example/issues",
+    "url": "https://github.com/MCEngine/vscode-extension-pack/issues",
     "email": "jetsadawijit@outlook.com"
   },
   "engines": {
