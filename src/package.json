@@ -3,7 +3,7 @@
   "displayName": "MCEngine VSCode Extension Pack",
   "description": "A curated collection of essential VS Code extensions for MCEngine projects.",
   "version": "1.0.0",
-  "publisher": "mecngine",
+  "publisher": "MCEngine",
   "license" : {
     "type" : "MIT",
     "url" : "https://github.com/MCEngine/vscode-extension-pack/blob/master/LICENSE"
