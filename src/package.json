@@ -1,0 +1,26 @@
+{
+  "name": "mcengine-github-vscode-extension-pack",
+  "displayName": "MCEngine Project Extension Pack for GitHub",
+  "description": "A curated collection of essential VS Code extensions for MCEngine projects.",
+  "version": "1.0.0",
+  "publisher": "MCEngine",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MCEngine/github-vscode-extension-pack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MCEngine/github-vscode-extension-pack/issues",
+    "email": "jetsadawijit@outlook.com"
+  },
+  "engines": {
+    "vscode": "1.97.2"
+  },
+  "categories": ["Extension Packs"],
+  "extensionPack": [
+    "GitHub.vscode-pull-request-github",
+    "GitHub.copilot",
+    "GitHub.codespaces",
+    "GitHub.remotehub"
+  ]
+}
