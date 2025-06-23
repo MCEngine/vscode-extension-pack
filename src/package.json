@@ -1,5 +1,5 @@
 {
-  "name": "github-vscode-extension-pack",
+  "name": "github-pack",
   "displayName": "MCEngine Project Extension Pack for GitHub",
   "description": "A curated collection of essential VS Code extensions for MCEngine projects.",
   "version": "1.0.0",
